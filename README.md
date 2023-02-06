@@ -6,6 +6,8 @@
 
 In this project I applied Exploratory Data Analytics on the [H&M Fashion Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) to have an insight look at the dataset and then implemented three recommender systems based on the [Turi Create](https://github.com/apple/turicreate).
 
+The code for this project can be found in `./code/Recommender_Systems_H&M.ipynb`
+
 ## Dataset
 
 The complete dataset is available [HERE](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data).
