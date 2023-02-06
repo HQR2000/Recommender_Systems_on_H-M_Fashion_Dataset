@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project I applied Exploratory Data Analytics on the H&M [Fashion Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) to have an insight look at the dataset and then implemented three recommender systems based on the [Turi Create](https://github.com/apple/turicreate).
+In this project I applied Exploratory Data Analytics on the [H&M Fashion Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) to have an insight look at the dataset and then implemented three recommender systems based on the [Turi Create](https://github.com/apple/turicreate).
 
 ## Dataset
 
@@ -18,7 +18,7 @@ The three `.csv` files are as followed:
 - **customers.csv** - metadata for each `customer_id` in dataset
 - **transactions_train.csv** - the training data, consisting of the purchases each customer for each date, as well as additional information. Duplicate rows correspond to multiple purchases of the same item. 
 
-- **images/** is a folder of images corresponding to each `article_id`; images are placed in subfolders starting with the first three digits of the `article_id`; **important note!** Not all article_id values have a corresponding image!
+**images/** is a folder of images corresponding to each `article_id`; images are placed in subfolders starting with the first three digits of the `article_id`; **important note!** Not all article_id values have a corresponding image!
 
 ## Exploratory Data Analytics
 
