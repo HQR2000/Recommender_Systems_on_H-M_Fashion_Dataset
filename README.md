@@ -39,7 +39,7 @@ To prepare the dataset, we first create normalized matrix with customers on rows
 
 ### Models
 
-The three recommender systems includes _Popularity Recommender System_, _Cosine Recommender System_ and _Pearson Recommender System_. The _Popularity Recommender System_ recommends the top-12 popular items among all items while the _Cosine Recommender System_ and _Pearson Recommender System_ recommend the top-12 item that are most correlated to the user's previous purchases based on collaborative filtering.
+The three recommender systems includes **_Popularity Recommender System_**, **_Cosine Recommender System_** and **_Pearson Recommender System_**. The _Popularity Recommender System_ recommends the top-12 popular items among all items while the _Cosine Recommender System_ and _Pearson Recommender System_ recommend the top-12 item that are most correlated to the user's previous purchases based on collaborative filtering.
 
 ## Results 
 
