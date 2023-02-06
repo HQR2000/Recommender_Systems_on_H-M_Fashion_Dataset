@@ -22,7 +22,7 @@ The three `.csv` files are as followed:
 
 In this part, I applied data preprocessing methods to `articles.csv`, `customers.csv`, `transaction_tran.csv` to impute missing values and made visulizations to have a more directly look into the data. For 
 
-![Product Type]()![Wordcloud]()
+![Product Type](https://github.com/HQR2000/Recommender_Systems_on_H-M_Fashion_Dataset/blob/main/public/example1.png)![Wordcloud](https://github.com/HQR2000/Recommender_Systems_on_H-M_Fashion_Dataset/blob/main/public/example2.png)
 
 ## Recommender Systems
 
@@ -53,6 +53,7 @@ Here is the result of the RMSE for each model:
 
 ## Project Structure
 
+```Python
 ├─code
 │ ├─Recommender_System_H&M.ipynb   # Jupyter Notebook for this project
 ├─output
@@ -60,6 +61,7 @@ Here is the result of the RMSE for each model:
 ├─public   # Some of the example images
 │ ├─example1.png
 │ ├─example2.png
+```
 
 
 
