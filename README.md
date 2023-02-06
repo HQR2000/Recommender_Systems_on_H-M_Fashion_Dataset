@@ -1,5 +1,7 @@
 # Recommender Systems on H&M Fashion Dataset
 
+![H&M](https://github.com/HQR2000/Recommender_Systems_on_H-M_Fashion_Dataset/blob/main/public/H&M.jpg)
+
 ## Introduction
 
 In this project I applied Exploratory Data Analytics on the H&M [Fashion Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) to have an insight look at the dataset and then implemented three recommender systems based on the [Turi Create](https://github.com/apple/turicreate).
