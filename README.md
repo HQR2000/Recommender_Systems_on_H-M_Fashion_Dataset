@@ -63,6 +63,7 @@ Here is the result of the RMSE for each model:
 ├─public   # Some of the example images
 │ ├─example1.png
 │ ├─example2.png
+│ ├─H&M.jpg
 ```
 
 
